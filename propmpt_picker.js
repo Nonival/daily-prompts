@@ -5,10 +5,7 @@ function chooseRandomPrompt() {
   }
 
  propmt_list = [
-     "Source (Pg #) 
-     Test 1"
-     "Source (Pg #) 
-     Test 2"
-     "Source (Pg #) 
-     Test 3"
+     "Source (Pg #). Test 1",
+     "Source (Pg #). Test 2",
+     "Source (Pg #). Test 3"
   ]
